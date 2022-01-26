@@ -1,7 +1,6 @@
 import java.io.*;
 
 public class Main {
-  // Libreria necesaria a implementar: https://www.baeldung.com/opencsv
 
   public static void main(String[] args) {
 
