@@ -37,42 +37,40 @@ public class App {
         WebElement aceptar = driver.findElement(new By.ByClassName("NN0_TB_DIsNmMHgJWgT7U"));
         aceptar.click();
 
+        CSV csv = new CSV(csvFile, pokemon);
         List<WebElement> pokemons = new ArrayList<>();
         List<String> links = new ArrayList();
         char letra = 'A';
 
         try {
-            BufferedWriter outputStream = new BufferedWriter(new FileWriter(csvFile));
-            for (int i = 0; /*i < 26*/ i < 1; i++) {
+            for (int i = 0; /*i < 26*/ i < 2; i++) {
                 driver.get("https://pokemon.fandom.com/es/wiki/Categor%C3%ADa:Lista_de_Pok%C3%A9mon_por_nombre?from=" + letra);
                 pokemons = driver.findElements(new By.ByClassName("category-page__member-link"));
                 for (WebElement poke: pokemons) {
                     links.add(poke.getAttribute("href"));
                 }
-                for (String link : links) {
-                    procesarPokemon(driver, outputStream, link);
-                }
                 letra++;
             }
-            outputStream.close();
+            for (String link : links) {
+                procesarPokemon(driver, link);
+                csv.pokemonToCSV();
+            }
             driver.quit();
         } catch (IOException ioException) {
             ioException.printStackTrace();
         }
     }
 
-    public void procesarPokemon(WebDriver driver, BufferedWriter outputStream, String link) throws IOException {
+    public void procesarPokemon(WebDriver driver, String link) throws IOException {
         driver.navigate().to(link);
 
-        procesarNombre(driver, outputStream);
-        procesarTipo(driver, outputStream);
-        procesarHabilidad(driver, outputStream);
-        procesarDescripcion(driver, outputStream);
-
-        driver.navigate().back();
+        procesarNombre(driver);
+        procesarTipo(driver);
+        procesarHabilidad(driver);
+        procesarDescripcion(driver);
     }
 
-    public void procesarNombre(WebDriver driver, BufferedWriter outputStream) throws IOException {
+    public void procesarNombre(WebDriver driver) throws IOException {
         WebElement nombre;
 
         nombre = driver.findElement(new By.ByClassName("page-header__title"));
@@ -80,7 +78,7 @@ public class App {
         System.out.println("Nombre: " + pokemon.getNombre());
     }
 
-    public void procesarTipo(WebDriver driver, BufferedWriter outputStream) throws IOException {
+    public void procesarTipo(WebDriver driver) throws IOException {
         WebElement tipo1 = null;
         WebElement tipo2 = null;
         int tipos = 0;
@@ -104,7 +102,7 @@ public class App {
         }
     }
 
-    public void procesarHabilidad(WebDriver driver, BufferedWriter outputStream) throws IOException {
+    public void procesarHabilidad(WebDriver driver) throws IOException {
         WebElement habilidad1 = null;
         WebElement habilidad2 = null;
         int habilidades = 0;
@@ -128,7 +126,7 @@ public class App {
         }
     }
 
-    public void procesarDescripcion(WebDriver driver, BufferedWriter outputStream) throws IOException {
+    public void procesarDescripcion(WebDriver driver) throws IOException {
         WebElement descripcion;
 
         descripcion = driver.findElement(new By.ByXPath("//div[@class='mw-parser-output']//p[3]"));

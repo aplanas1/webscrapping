@@ -10,5 +10,7 @@ public class Main {
     File csvFile = new File("src/pokemons.csv");
     File xmlFile = new File("src/pokemons.xml");
     App app = new App(csvFile, xmlFile);
+
+    app.run();
   }
 }

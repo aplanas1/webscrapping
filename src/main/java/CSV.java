@@ -15,7 +15,7 @@ public class CSV {
     }
 
     public void pokemonToCSV() {
-        String str = pokemon.getNombre()+","+pokemon.getTipo1()+","+pokemon.getTipo2()+","+pokemon.getHabilidad1()+","+pokemon.getHabilidad2()+","+pokemon.getDescripcion()+"\n";
+        String str = pokemon.getNombre()+","+pokemon.getTipo1()+","+pokemon.getTipo2()+","+pokemon.getHabilidad1()+","+pokemon.getHabilidad2()+","+pokemon.getDescripcion();
         write(str);
     }
     public void write(String str) {
