@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PokemonCollection>
+    <Pokemons>
+        <descripcion>Lairon es un Pokémon tipo acero/roca introducido en la tercera generación. Es la evolución de Aron.</descripcion>
+        <habilidad1>Cabeza roca</habilidad1>
+        <habilidad2>Robustez</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/a/a4/Lairon.png/revision/latest/scale-to-width-down/260?cb=20080910095319</imagen>
+        <nombre>Lairon</nombre>
+        <tipo1>Tipo acero</tipo1>
+        <tipo2>Tipo roca</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lampent es un Pokémon de tipo fantasma/fuego introducido en la quinta generación. Es la evolución de Litwick.</descripcion>
+        <habilidad1>Absorbe fuego</habilidad1>
+        <habilidad2>Cuerpo llama</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/3/3c/Lampent.png/revision/latest/scale-to-width-down/260?cb=20110312223244</imagen>
+        <nombre>Lampent</nombre>
+        <tipo1>Tipo fantasma</tipo1>
+        <tipo2>Tipo fuego</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Landorus es un Pokémon legendario de tipo tierra/volador introducido en la quinta generación. Sólo aparece si tienes a Tornadus y a Thundurus en tu equipo. Este forma parte del trío de las nubes.</descripcion>
+        <habilidad1>Poder arena</habilidad1>
+        <habilidad2>Intimidación</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/1/1c/Landorus_avatar.png/revision/latest/scale-to-width-down/350?cb=20161201010213</imagen>
+        <nombre>Landorus</nombre>
+        <tipo1>Tipo tierra</tipo1>
+        <tipo2>Tipo volador</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lanturn es un Pokémon de tipo agua/eléctrico introducido en la segunda generación. Es la forma evolucionada de Chinchou.</descripcion>
+        <habilidad1>Absor. elec.</habilidad1>
+        <habilidad2>Iluminación</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/1/16/Lanturn.png/revision/latest/scale-to-width-down/260?cb=20140206214103</imagen>
+        <nombre>Lanturn</nombre>
+        <tipo1>Tipo agua</tipo1>
+        <tipo2>Tipo eléctrico</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lapras es un Pokémon de tipo agua/hielo introducido en la primera generación.</descripcion>
+        <habilidad1>Absorbe agua</habilidad1>
+        <habilidad2>Caparazón</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/3/30/Lapras.png/revision/latest/scale-to-width-down/260?cb=20080730095459</imagen>
+        <nombre>Lapras</nombre>
+        <tipo1>Tipo agua</tipo1>
+        <tipo2>Tipo hielo</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Larvesta es un Pokémon de tipo bicho/fuego introducido en la quinta generación.</descripcion>
+        <habilidad1>Cuerpo llama</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/d/d3/Larvesta.png/revision/latest/scale-to-width-down/260?cb=20110312041703</imagen>
+        <nombre>Larvesta</nombre>
+        <tipo1>Tipo bicho</tipo1>
+        <tipo2>Tipo fuego</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Larvitar es un Pokémon de tipo roca/tierra introducido en la segunda generación.</descripcion>
+        <habilidad1>Agallas</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/7/71/Larvitar.png/revision/latest/scale-to-width-down/260?cb=20140213192442</imagen>
+        <nombre>Larvitar</nombre>
+        <tipo1>Tipo roca</tipo1>
+        <tipo2>Tipo tierra</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Latias es un Pokémon legendario de tipo dragón/psíquico introducido en la tercera generación. Forma parte del dúo eón junto con Latios. Es un Pokémon adelantado, a partir de la sexta generación puede megaevolucionar en Mega-Latias.</descripcion>
+        <habilidad1>Levitación</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/2/28/Latias.png/revision/latest/scale-to-width-down/350?cb=20141214192109</imagen>
+        <nombre>Latias</nombre>
+        <tipo1>Tipo dragón</tipo1>
+        <tipo2>Tipo psíquico</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Latios es un Pokémon legendario de tipo dragón/psíquico introducido en la tercera generación. Es un Pokémon adelantado y forma parte del dúo eón con Latias. A partir de la sexta generación puede megaevolucionar en Mega-Latios.</descripcion>
+        <habilidad1>Levitación</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/6/6f/Latios.png/revision/latest/scale-to-width-down/350?cb=20141214191934</imagen>
+        <nombre>Latios</nombre>
+        <tipo1>Tipo dragón</tipo1>
+        <tipo2>Tipo psíquico</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Leafeon es un Pokémon de tipo planta introducido en la cuarta generación. Se trata de una de las ocho evoluciones posibles de Eevee.</descripcion>
+        <habilidad1>Defensa hoja</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/9/91/Leafeon.png/revision/latest/scale-to-width-down/350?cb=20151017155723</imagen>
+        <nombre>Leafeon</nombre>
+        <tipo1>Tipo planta</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Leavanny es un Pokémon de tipo bicho/planta introducido en la quinta generación. Es la evolución de Swadloon.</descripcion>
+        <habilidad1>Enjambre</habilidad1>
+        <habilidad2>Clorofila</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/a/a6/Leavanny.png/revision/latest/scale-to-width-down/260?cb=20101219054811</imagen>
+        <nombre>Leavanny</nombre>
+        <tipo1>Tipo bicho</tipo1>
+        <tipo2>Tipo planta</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Ledian es un Pokémon de tipo bicho/volador introducido en la segunda generación. Es la evolución de Ledyba.</descripcion>
+        <habilidad1>Enjambre</habilidad1>
+        <habilidad2>Madrugar</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/e/ee/Ledian.png/revision/latest/scale-to-width-down/260?cb=20140206212828</imagen>
+        <nombre>Ledian</nombre>
+        <tipo1>Tipo bicho</tipo1>
+        <tipo2>Tipo volador</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Ledyba es un Pokémon de tipo bicho/volador introducido en la segunda generación.</descripcion>
+        <habilidad1>Enjambre</habilidad1>
+        <habilidad2>Madrugar</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/a/a8/Ledyba.png/revision/latest/scale-to-width-down/260?cb=20140206212813</imagen>
+        <nombre>Ledyba</nombre>
+        <tipo1>Tipo bicho</tipo1>
+        <tipo2>Tipo volador</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Igual que a su predecesor, Lickitung, el color rosa predomina en todo su cuerpo, la lengua de Lickilicky se ha desarrollado mucho. Suele lamer a sus víctimas para aturdirlas, y después se las traga completamente, una técnica parecida a la de Swalot. Su lengua es extensible y pegajosa, capaz de ser lanzada de su boca hasta a 300 km/h, que utiliza para atrapar a sus presas, que suelen ser Pokémon de tipo bicho y volador, como Ariados, Pidgeotto, Swablu, Beedrill... Se han visto casos en que un enorme Fearow arrastraba por el aire a este Pokémon, que ha intentado comérselo. A diferencia de su pre-evolución, Lickilicky puede guardar su lengua entera en la boca, aunque prefiere mantenerla fuera. Su forma redonda y rechoncha se deben a su enorme apetito. Tiene una zona blanca debajo del cuello que parece un babero, y unas franjas amarillas en el cuerpo.</descripcion>
+        <habilidad1>Despiste</habilidad1>
+        <habilidad2>Ritmo propio</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/a/ab/Lickilicky.png/revision/latest/scale-to-width-down/260?cb=20080911163505</imagen>
+        <nombre>Lickilicky</nombre>
+        <tipo1>Tipo normal</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lickitung es un Pokémon de tipo normal introducido en la primera generación.</descripcion>
+        <habilidad1>Despiste</habilidad1>
+        <habilidad2>Ritmo propio</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/a/ab/Lickitung.png/revision/latest/scale-to-width-down/260?cb=20080909112640</imagen>
+        <nombre>Lickitung</nombre>
+        <tipo1>Tipo normal</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Liepard es un Pokémon de tipo siniestro introducido en la quinta generación. Es la forma evolucionada de Purrloin.</descripcion>
+        <habilidad1>Flexibilidad</habilidad1>
+        <habilidad2>Liviano</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/3/3b/Liepard.png/revision/latest/scale-to-width-down/260?cb=20101219040928</imagen>
+        <nombre>Liepard</nombre>
+        <tipo1>Tipo siniestro</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lileep es un Pokémon de tipo roca/planta introducido en la tercera generación. Se trata de un Pokémon fósil que solo se puede obtener reviviéndolo a partir de un fósil raíz y es la contraparte de Anorith.</descripcion>
+        <habilidad1>Ventosas</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/6/6e/Lileep.png/revision/latest/scale-to-width-down/260?cb=20080910095351</imagen>
+        <nombre>Lileep</nombre>
+        <tipo1>Tipo roca</tipo1>
+        <tipo2>Tipo planta</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lilligant es un Pokémon de tipo planta introducido en la quinta generación. Es la evolución de Petilil. Es la contraparte de Whimsicott</descripcion>
+        <habilidad1>Clorofila</habilidad1>
+        <habilidad2>Ritmo propio</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/f/f5/Lilligant.png/revision/latest/scale-to-width-down/350?cb=20151017152947</imagen>
+        <nombre>Lilligant</nombre>
+        <tipo1>Tipo planta</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Su nombre procede de una combinación de las palabras inglesas li'l, abreviación de little, (pequeño), Lilliput, país de Los Viajes de Gulliver donde la gente es pequeña y de pup (cachorro).</descripcion>
+        <habilidad1>Espíritu vital</habilidad1>
+        <habilidad2>Recogida</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/1/18/Lillipup.png/revision/latest/scale-to-width-down/260?cb=20101219040505</imagen>
+        <nombre>Lillipup</nombre>
+        <tipo1>Tipo normal</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Linoone es un Pokémon de tipo normal introducido en la tercera generación. Es la evolución de Zigzagoon.</descripcion>
+        <habilidad1>Recogida</habilidad1>
+        <habilidad2>Gula</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/b/b5/Linoone.png/revision/latest/scale-to-width-down/260?cb=20080910095404</imagen>
+        <nombre>Linoone</nombre>
+        <tipo1>Tipo normal</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Los Linoone de Galar alcanzan velocidades de más de 100 km/h y, al usar Placaje o Golpe Cabeza, pueden asestar unos golpes devastadores. Estos ataques poseen una fuerza destructiva como para llevarse un coche por delante, pero también pueden hacer que Linoone pierda el equilibrio cuando falla.</descripcion>
+        <habilidad1>Recogida</habilidad1>
+        <habilidad2>Gula</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/6/69/Linoone_de_Galar.png/revision/latest/scale-to-width-down/350?cb=20190807161811</imagen>
+        <nombre>Linoone de Galar</nombre>
+        <tipo1>Tipo siniestro</tipo1>
+        <tipo2>Tipo normal</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Litleo es un Pokémon de tipo fuego/normal introducido en la sexta generación.</descripcion>
+        <habilidad1>Rivalidad</habilidad1>
+        <habilidad2>Nerviosismo</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/c/c7/Litleo.png/revision/latest/scale-to-width-down/260?cb=20130614124212</imagen>
+        <nombre>Litleo</nombre>
+        <tipo1>Tipo fuego</tipo1>
+        <tipo2>Tipo normal</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Litten está basado en un gato. Su pelaje es muy graso y altamente inflamable. Litten se lame para acicalarse y luego prende las bolas de pelo que se forman en su estómago para atacar a sus adversarios con bolas de fuego. Cuando a Litten le llega la hora de cambiar su pelaje, le prende fuego y se produce un estallido de llamas monumental. Eriza el pelo de su lomo para intimidar a sus enemigos. Litten es un Pokémon lógico y apasionado. Este Pokémon no pierde nunca la calma y jamás muestra sus emociones.</descripcion>
+        <habilidad1>Mar llamas</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/6/6e/Litten.png/revision/latest/scale-to-width-down/350?cb=20190808023603</imagen>
+        <nombre>Litten</nombre>
+        <tipo1>Tipo fuego</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Litwick es un Pokémon de tipo fantasma/fuego introducido en la quinta generación.</descripcion>
+        <habilidad1>Absorbe fuego</habilidad1>
+        <habilidad2>Cuerpo llama</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/d/d1/Litwick.png/revision/latest/scale-to-width-down/260?cb=20110111032145</imagen>
+        <nombre>Litwick</nombre>
+        <tipo1>Tipo fantasma</tipo1>
+        <tipo2>Tipo fuego</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lombre es un Pokémon de tipo agua/planta introducido en la tercera generación. Es la evolución de Lotad.</descripcion>
+        <habilidad1>Nado rápido</habilidad1>
+        <habilidad2>Cura lluvia</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/d/d8/Lombre.png/revision/latest/scale-to-width-down/260?cb=20080910095432</imagen>
+        <nombre>Lombre</nombre>
+        <tipo1>Tipo agua</tipo1>
+        <tipo2>Tipo planta</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lopunny es un Pokémon tipo normal introducido en la cuarta generación. Es la forma evolucionada de Buneary. A partir de Pokémon Rubí Omega y Pokémon Zafiro Alfa puede megaevolucionar en Mega-Lopunny.</descripcion>
+        <habilidad1>Gran encanto</habilidad1>
+        <habilidad2>Zoquete</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/0/06/Lopunny.png/revision/latest/scale-to-width-down/350?cb=20190111190342</imagen>
+        <nombre>Lopunny</nombre>
+        <tipo1>Tipo normal</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lotad es un Pokémon de tipo agua/planta introducido en la tercera generación. Es la contraparte de Seedot.</descripcion>
+        <habilidad1>Cura lluvia</habilidad1>
+        <habilidad2>Nado rápido</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/3/3c/Lotad.png/revision/latest/scale-to-width-down/350?cb=20151017153546</imagen>
+        <nombre>Lotad</nombre>
+        <tipo1>Tipo agua</tipo1>
+        <tipo2>Tipo planta</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Loudred es un Pokémon de tipo normal introducido en la tercera generación. Es la evolución de Whismur.</descripcion>
+        <habilidad1>Insonorizar</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/1/1e/Loudred.png/revision/latest/scale-to-width-down/260?cb=20080910095453</imagen>
+        <nombre>Loudred</nombre>
+        <tipo1>Tipo normal</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lucario es un Pokémon de tipo lucha/acero introducido en la cuarta generación. Es la evolución de Riolu. Es un Pokémon adelantado por su aparición en la película Lucario y el misterio de Mew (ES), (HA), a partir de la sexta generación puede megaevolucionar en Mega-Lucario.</descripcion>
+        <habilidad1>Impasible</habilidad1>
+        <habilidad2>Foco interno</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/d/d0/Lucario.png/revision/latest/scale-to-width-down/350?cb=20150621180604</imagen>
+        <nombre>Lucario</nombre>
+        <tipo1>Tipo lucha</tipo1>
+        <tipo2>Tipo acero</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Ludicolo es un Pokémon de tipo agua/planta introducido en la tercera generación. Es la evolución de Lombre.</descripcion>
+        <habilidad1>Nado rápido</habilidad1>
+        <habilidad2>Cura lluvia</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/6/69/Ludicolo.png/revision/latest/scale-to-width-down/260?cb=20080910095506</imagen>
+        <nombre>Ludicolo</nombre>
+        <tipo1>Tipo agua</tipo1>
+        <tipo2>Tipo planta</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lugia es un Pokémon legendario de tipo psíquico/volador introducido en la segunda generación. Conocido como La deidad de los mares o El Misterio de las islas remolino, tiene su ubicación en las Islas Remolino. Es la contraparte de Ho-Oh. Es la mascota de Pokémon Plata, Pokémon XD: Tempestad Oscura y Pokémon Plata SoulSilver. Es un Pokémon adelantado por su aparición en la película Pokémon 2: El poder de uno (ES), (HA).</descripcion>
+        <habilidad1>Presión</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/a/a7/Lugia.png/revision/latest/scale-to-width-down/350?cb=20150621183911</imagen>
+        <nombre>Lugia</nombre>
+        <tipo1>Tipo psíquico</tipo1>
+        <tipo2>Tipo volador</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lumineon es un Pokémon de tipo agua introducido en la cuarta generación. Es la evolución de Finneon.</descripcion>
+        <habilidad1>Nado rápido</habilidad1>
+        <habilidad2>Colector</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/e/e9/Lumineon.png/revision/latest/scale-to-width-down/260?cb=20080911163514</imagen>
+        <nombre>Lumineon</nombre>
+        <tipo1>Tipo agua</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lunala es un pokémon legendario de tipo psíquico/fantasma introducido en la séptima generación. Es la contraparte de Solgaleo y la mascota de Pokémon Luna.</descripcion>
+        <habilidad1>Guardia espectro</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/b/b0/Lunala.png/revision/latest/scale-to-width-down/350?cb=20160602132620</imagen>
+        <nombre>Lunala</nombre>
+        <tipo1>Tipo psíquico</tipo1>
+        <tipo2>Tipo fantasma</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lunatone es un Pokémon de tipo roca/psíquico introducido en la tercera generación. Es la contraparte de Solrock.</descripcion>
+        <habilidad1>Levitación</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/9/99/Lunatone.png/revision/latest/scale-to-width-down/260?cb=20080910095509</imagen>
+        <nombre>Lunatone</nombre>
+        <tipo1>Tipo roca</tipo1>
+        <tipo2>Tipo psíquico</tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lurantis está basado en una mantis orquídea.</descripcion>
+        <habilidad1>Defensa hoja</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/c/c5/Lurantis.png/revision/latest/scale-to-width-down/350?cb=20160801161407</imagen>
+        <nombre>Lurantis</nombre>
+        <tipo1>Tipo planta</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Luvdisc es un Pokémon de tipo agua introducido en la tercera generación.</descripcion>
+        <habilidad1>Nado rápido</habilidad1>
+        <habilidad2></habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/c/ce/Luvdisc.png/revision/latest/scale-to-width-down/260?cb=20080910095518</imagen>
+        <nombre>Luvdisc</nombre>
+        <tipo1>Tipo agua</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Luxio es un Pokémon de tipo eléctrico introducido en la cuarta generación. Es la evolución de Shinx.</descripcion>
+        <habilidad1>Rivalidad</habilidad1>
+        <habilidad2>Intimidación</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/5/51/Luxio.png/revision/latest/scale-to-width-down/260?cb=20080715135809</imagen>
+        <nombre>Luxio</nombre>
+        <tipo1>Tipo eléctrico</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Luxray es una especie de león adulto, o lince adulto, ya que según la mitología europea el lince tiene el poder sobrenatural de ver a través de objetos sólidos. Así mismo, comparte características con el tigre, tales como el gusto por el nado, como se muestra en el EP558 del anime, donde su preevolución, Shinx, se encuentra nadando tranquilamente (</descripcion>
+        <habilidad1>Rivalidad</habilidad1>
+        <habilidad2>Intimidación</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/e/ee/Luxray.png/revision/latest/scale-to-width-down/260?cb=20080715135811</imagen>
+        <nombre>Luxray</nombre>
+        <tipo1>Tipo eléctrico</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+    <Pokemons>
+        <descripcion>Lycanroc se basa en el rougarou o loup-garou, una leyenda a día de hoy conocida en diversas partes de América que tiene su origen en Francia. La criatura forma parte de la creencia popular del hombre-lobo, el humano que se transforma bajo la luz de la Luna.</descripcion>
+        <habilidad1>Vista lince</habilidad1>
+        <habilidad2>Ímpetu arena</habilidad2>
+        <imagen>https://static.wikia.nocookie.net/espokemon/images/a/ad/Lycanroc.png/revision/latest/scale-to-width-down/350?cb=20180206060902</imagen>
+        <nombre>Lycanroc</nombre>
+        <tipo1>Tipo roca</tipo1>
+        <tipo2></tipo2>
+    </Pokemons>
+</PokemonCollection>
