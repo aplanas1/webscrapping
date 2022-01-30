@@ -1,30 +1,17 @@
-public class Pokemon {
-    String nombre;
+public class PokemonTemp {
     String imagen;
+    String nombre;
     String tipo1;
     String tipo2;
     String habilidad1;
     String habilidad2;
     String descripcion;
 
-    /**
-     * Contructor vacío de pokemon
-     */
-    public Pokemon() {}
+    public PokemonTemp() {}
 
-    /**
-     * Constuctor del pokemon con datos
-     * @param nombre el nombre del pokemon
-     * @param imagen la imagen del pokemon
-     * @param tipo1 el primer tipo del pokemon
-     * @param tipo2 el segundo tipo del pokemon (puede no tener)
-     * @param habilidad1 la primera habilidad del pokemon
-     * @param habilidad2 la segunda habilidad del pokemon (puede no tener)
-     * @param descripcion la descripcion del pokemon
-     */
-    public Pokemon(String nombre, String imagen, String tipo1, String tipo2, String habilidad1, String habilidad2, String descripcion) {
-        this.nombre = nombre;
+    public PokemonTemp(String imagen, String nombre, String tipo1, String tipo2, String habilidad1, String habilidad2, String descripcion) {
         this.imagen = imagen;
+        this.nombre = nombre;
         this.tipo1 = tipo1;
         this.tipo2 = tipo2;
         this.habilidad1 = habilidad1;
@@ -32,22 +19,12 @@ public class Pokemon {
         this.descripcion = descripcion;
     }
 
-    //Getters y setters de los distintos campos del pokemon
-
     public String getNombre() {
         return nombre;
     }
 
     public void setNombre(String nombre) {
         this.nombre = nombre;
-    }
-
-    public String getImagen() {
-        return imagen;
-    }
-
-    public void setImagen(String imagen) {
-        this.imagen = imagen;
     }
 
     public String getTipo1() {
